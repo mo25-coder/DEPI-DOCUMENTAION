@@ -2,9 +2,9 @@
 ## An attempt to make full-stack [flask react](https://github.com/mo25-coder/backend-for-amazon-movie-recomondattion.git)
 
 ## Group id: 1
-## Project name: Movie recomondation app
-## Project teamleader: Mohamed Sameh Mohamed
-## Project Memebers:
+## Project name: Movie recommendation app
+## Project team leader: Mohamed Sameh Mohamed
+## Project Members:
 ```bash 
 1. Mohamed Sameh Mohamed
 2. Abdul Moamen Youssef Mohamed
@@ -13,3 +13,5 @@
 5. Hassan Khaled Hassan Mohamed
 6. Mohamed Mahmoud Taher Mohamed
 ```
+
+
